@@ -1,0 +1,19 @@
+{
+  "name": "fakesmpp",
+  "version": "1.0.0",
+  "description": "Fake SMPP server.",
+  "main": "smpp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lab-coop/fakesmpp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lab-coop/fakesmpp/issues"
+  },
+  "homepage": "https://github.com/lab-coop/fakesmpp#readme"
+}
